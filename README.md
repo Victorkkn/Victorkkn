@@ -2,12 +2,14 @@
 
 # Víctor Kennedy
 
-**Backend Engineer · Python · Event-Driven Systems · Identity & Access**
+**Backend Engineer · Python · Event-Driven Systems · Identity & Access**<br>
 **AI Training & Evaluation**
 
 Based in Brazil (UTC−3) · Remote · Working with international teams
 
-[LinkedIn](https://www.linkedin.com/in/victorkennedy) · [Certifications](#certifications)
+`Open to:` international remote roles · AI training & evaluation · freelance and contract work
+
+[LinkedIn](https://www.linkedin.com/in/victorkennedy) · [Credly](https://www.credly.com/users/victorkkn) · [Certifications](#certifications)
 
 </div>
 
@@ -89,7 +91,7 @@ Python automation, workforce-management applications, and Power BI dashboards us
 
 ## Certifications
 
-Microsoft credentials link to Microsoft Learn; AWS credentials link to Credly. Every link is a public verification page.
+Microsoft credentials link to Microsoft Learn; AWS credentials link to [Credly](https://www.credly.com/users/victorkkn). Every link is a public verification page.
 
 **Highlights**
 - [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/DE835A9EDAD78A58?sharingId=5FF306831E8A0A0C)
@@ -105,8 +107,8 @@ Microsoft credentials link to Microsoft Learn; AWS credentials link to Credly. E
 **Microsoft: Fundamentals**
 [Azure](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/5415B3995EC8C9ED?sharingId=5FF306831E8A0A0C) · [Azure AI](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/25A31184E1096A17?sharingId=5FF306831E8A0A0C) · [Azure Data](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/913CAB90EC519ADC?sharingId=5FF306831E8A0A0C) · [Microsoft 365](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/5A8E131AF3C71979?sharingId=5FF306831E8A0A0C) · [Security, Compliance & Identity](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/5BBC53F4754BED49?sharingId=5FF306831E8A0A0C) · [Dynamics 365 ERP](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/425F2415805CA218?sharingId=5FF306831E8A0A0C) · [Dynamics 365 CRM](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/70ED164C0B0A8497?sharingId=5FF306831E8A0A0C) · [Power Platform](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/B211A6571E36EBCE?sharingId=5FF306831E8A0A0C)
 
-**AWS: Practitioner**
-[Cloud](https://www.credly.com/badges/d42100f2-2ad8-4304-a61b-b53dd57a5d54/public_url)
+**AWS: Fundamentals**
+[Cloud Practitioner](https://www.credly.com/badges/d42100f2-2ad8-4304-a61b-b53dd57a5d54/public_url)
 
 ## Education & languages
 
@@ -134,4 +136,4 @@ Most of my professional work is in private or client repositories, so the case s
 
 I'm open to remote backend, IAM, and AI-evaluation work with international teams.
 
-[LinkedIn](https://www.linkedin.com/in/victorkennedy) · [Certifications](#certifications)
+[LinkedIn](https://www.linkedin.com/in/victorkennedy) · [Credly](https://www.credly.com/users/victorkkn) · [Certifications](#certifications)
