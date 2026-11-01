@@ -102,6 +102,7 @@ Microsoft credentials link to Microsoft Learn; AWS credentials link to [Credly](
 - [AWS Certified AI Practitioner](https://www.credly.com/badges/6c59082b-b53e-49a2-bf63-9c52a867068a/public_url)
 
 **Microsoft: Associate and Specialty**
+[Azure AI Apps and Agents Developer](https://learn.microsoft.com/api/credentials/share/en-gb/VctorNunes-2692/2B11B0DDFC8CF64B?sharingId=5FF306831E8A0A0C) · 
 [Azure Administrator](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/E7B9B2B48C75F35C?sharingId=5FF306831E8A0A0C) · [Azure Network Engineer](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/44607B170BBCCF11?sharingId=5FF306831E8A0A0C) · [Azure Virtual Desktop (Specialty)](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/E14E5F2272DD829B?sharingId=5FF306831E8A0A0C) · [Power Platform Developer](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/64742598194AF74F?sharingId=5FF306831E8A0A0C) · [Power Platform Functional Consultant](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/9F8EF69CF430C832?sharingId=5FF306831E8A0A0C) · [Power BI Data Analyst](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/1B59F37D4629E2E7?sharingId=5FF306831E8A0A0C)
 
 **Microsoft: Fundamentals**
