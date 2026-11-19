@@ -2,7 +2,7 @@
 
 # Víctor Kennedy
 
-**Backend Engineer · Python · Event-Driven Systems · Identity & Access**<br>
+**Backend Engineer · Python · Distributed Systems · IAM**<br>
 **AI Training & Evaluation**
 
 Based in Brazil (UTC−3) · Remote · Working with international teams
@@ -17,7 +17,7 @@ Based in Brazil (UTC−3) · Remote · Working with international teams
 
 ## About
 
-Backend engineer with 6+ years of Python, building event-driven microservices for financial services and secure identity platforms. I also do hands-on AI training and evaluation work: writing multi-step tasks for models, reviewing other contributors' work, and judging model outputs against defined criteria.
+Backend engineer with 6+ years of experience building event-driven microservices in Python for financial services and secure identity platforms. I also do hands-on AI training and evaluation work: writing multi-step tasks for models, reviewing other contributors' work, and judging model outputs against defined criteria.
 
 I care about code quality, testing, and clear technical communication, and I use AI coding tools daily (Claude, Cursor, Codex, GPT, Gemini, Antigravity).
 
@@ -87,11 +87,11 @@ Python automation, workforce-management applications, and Power BI dashboards us
 
 **Testing & quality** `pytest` `pytest-asyncio` `mutation testing` `integration testing`
 
-**AI & data** `LLM APIs` `prompt engineering` `model evaluation` `embeddings` `Power BI`
+**AI & data** `LLM APIs` `Claude` `prompt engineering` `model evaluation` `embeddings` `data engineering` `Power BI`
 
 ## Certifications
 
-Microsoft credentials link to Microsoft Learn; AWS credentials link to [Credly](https://www.credly.com/users/victorkkn). Every link is a public verification page.
+Microsoft credentials link to Microsoft Learn; AWS and Anthropic credentials link to Credly. Every link points to a public verification page.
 
 **Highlights**
 - [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/DE835A9EDAD78A58?sharingId=5FF306831E8A0A0C)
@@ -99,7 +99,9 @@ Microsoft credentials link to Microsoft Learn; AWS credentials link to [Credly](
 - [Microsoft Certified: Agentic AI Business Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/DA938AE12CB0A53D?sharingId=5FF306831E8A0A0C)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a5d78309-e418-4c39-b7c7-50426cdadf5d/public_url)
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/d7debc3a-b030-4ea9-a9a9-134429b3d4e7/public_url)
-- [AWS Certified AI Practitioner](https://www.credly.com/badges/6c59082b-b53e-49a2-bf63-9c52a867068a/public_url)
+- [AWS Certified Data Engineer – Associate](https://www.credly.com/earner/earned/badge/20376ab4-529e-4310-80ff-64662bbd50d4)
+- [AWS Certified CloudOps Engineer – Associate](https://www.credly.com/earner/earned/badge/378d170b-9acc-41c5-9e3b-8433784dee75)
+- [Claude Certified Associate – Foundations](https://www.credly.com/earner/earned/badge/2fdc6852-0d95-489c-b6d5-082a5887d0bc)
 
 **Microsoft: Associate and Specialty**
 [Azure AI Apps and Agents Developer](https://learn.microsoft.com/api/credentials/share/en-gb/VctorNunes-2692/2B11B0DDFC8CF64B?sharingId=5FF306831E8A0A0C) · 
@@ -108,8 +110,8 @@ Microsoft credentials link to Microsoft Learn; AWS credentials link to [Credly](
 **Microsoft: Fundamentals**
 [Azure](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/5415B3995EC8C9ED?sharingId=5FF306831E8A0A0C) · [Azure AI](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/25A31184E1096A17?sharingId=5FF306831E8A0A0C) · [Azure Data](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/913CAB90EC519ADC?sharingId=5FF306831E8A0A0C) · [Microsoft 365](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/5A8E131AF3C71979?sharingId=5FF306831E8A0A0C) · [Security, Compliance & Identity](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/5BBC53F4754BED49?sharingId=5FF306831E8A0A0C) · [Dynamics 365 ERP](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/425F2415805CA218?sharingId=5FF306831E8A0A0C) · [Dynamics 365 CRM](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/70ED164C0B0A8497?sharingId=5FF306831E8A0A0C) · [Power Platform](https://learn.microsoft.com/api/credentials/share/pt-br/VctorNunes-2692/B211A6571E36EBCE?sharingId=5FF306831E8A0A0C)
 
-**AWS: Fundamentals**
-[Cloud Practitioner](https://www.credly.com/badges/d42100f2-2ad8-4304-a61b-b53dd57a5d54/public_url)
+**AWS: Fundamentals & AI**
+[AI Practitioner](https://www.credly.com/badges/6c59082b-b53e-49a2-bf63-9c52a867068a/public_url) · [Cloud Practitioner](https://www.credly.com/earner/earned/badge/4d6fdac7-9a6f-4d38-b5f8-7be97a49827c)
 
 ## Education & languages
 
@@ -125,8 +127,6 @@ Microsoft credentials link to Microsoft Learn; AWS credentials link to [Credly](
 - Spanish · B1
 
 ## Public code
-
-<!-- TODO: add new showcase repositories here (e.g. FastAPI + Keycloak token validation demo, event-driven Pub/Sub demo) -->
 
 - **[CognitiveEnvironments](https://github.com/Victorkkn/CognitiveEnvironments)**: coursework for the Cognitive Environments subject (Jupyter Notebook)
 - **[SudokuSolver](https://github.com/Victorkkn/SudokuSolver)**: Sudoku solver in JavaScript
